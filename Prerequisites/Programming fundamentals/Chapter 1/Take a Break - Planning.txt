@@ -1,0 +1,16 @@
+Once started, every 2 hrs it opens a browser with one window open containing the url of a video chosen
+
+1. Create a start button
+2. Start logging time
+3. Once the 2 hrs timestamp has been reached
+4. Open a browser window with a chosen link
+5. Reset the time counter
+6. Repeat until the program is closed
+
+
+1. Get all filenames
+2. Loop through all filenames
+    1. Loop through the filename
+    2. If filename index is a number, delete the index
+    3. Save file title
+2. Done

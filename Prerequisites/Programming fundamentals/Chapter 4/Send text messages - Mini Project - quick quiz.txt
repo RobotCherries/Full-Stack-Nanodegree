@@ -1,0 +1,11 @@
+1. What is a class?
+A class is kind of like a blueprint.
+
+
+2. What is an instance of a class?
+It's like a copy of the original class, which we store in a variable.
+By using this copy we now have access to information and functions available whithin that class.
+
+
+3. Thus far we have compared the class to a blueprint.
+   Can you think of another analogy to explain classes?
